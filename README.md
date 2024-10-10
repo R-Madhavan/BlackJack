@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b78b910f-5188-4df5-90fb-275e50e1aba2)
+![image](https://github.com/user-attachments/assets/f84ed937-eccb-4290-a6e5-fb94dd568918)
 
 # BlackJack Game 🎮🃏
 
